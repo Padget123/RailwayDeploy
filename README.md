@@ -1,6 +1,8 @@
 # Railway Deploy
 ʙʏ ᴜꜱɪɴɢ ᴏᴜʀ ʀᴇᴘᴏ ʏᴏᴜ ᴄᴀɴ ᴇᴀꜱɪʟʏ ᴅᴇᴘʟᴏʏ ʏᴏᴜʀ ʙᴏᴛꜱ ᴏɴ ʀᴀɪʟᴡᴀʏ
 
+# COPY KRNE WALON CREDIT DE DENA
+
 ># ꜰᴏʟʟᴏᴡ ᴛʜᴇ ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ<
 >>ꜱᴛᴇᴘ 1: ꜰᴏʀᴋ ᴏᴜʀ ʀᴇᴘᴏꜱɪᴛᴏʀʏ ᴀɴᴅ ɢᴏ ᴏɴ railway.app
 
@@ -25,5 +27,5 @@
 
 ━━━━━━━━━━━━━━━━━━━━
 
-<a href="https://telegram.me/Cherished_Community"><img src="https://img.shields.io/badge/-Piyush%20-darkgreen.svg?style=for-the-badge&logo=kalilinux"></a>
+<a href="https://telegram.me/JoinIndianNavy_007"><img src="https://img.shields.io/badge/-Piyush%20-green.svg?style=for-the-badge&logo=kalilinux"></a>
 
